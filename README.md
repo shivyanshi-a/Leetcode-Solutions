@@ -6,5 +6,10 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
