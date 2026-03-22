@@ -6,6 +6,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -24,6 +25,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -92,4 +94,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0424-longest-repeating-character-replacement](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
