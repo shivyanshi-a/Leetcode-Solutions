@@ -57,6 +57,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0001-two-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -82,6 +83,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0031-next-permutation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Trie
 |  |
@@ -155,4 +157,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
