@@ -23,6 +23,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1328-break-a-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1328-break-a-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
