@@ -53,6 +53,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
