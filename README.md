@@ -15,6 +15,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 ## Two Pointers
@@ -31,6 +32,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -76,4 +78,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
