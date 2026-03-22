@@ -34,6 +34,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0567-permutation-in-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1328-break-a-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 ## Two Pointers
@@ -128,6 +129,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0214-shortest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
