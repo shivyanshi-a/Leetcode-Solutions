@@ -14,6 +14,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 ## Two Pointers
@@ -28,6 +29,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -62,4 +64,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
