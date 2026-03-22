@@ -11,6 +11,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0125-valid-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 ## Two Pointers
@@ -22,6 +23,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -40,4 +42,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
