@@ -14,6 +14,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0344-reverse-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
@@ -27,12 +28,14 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +53,13 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
