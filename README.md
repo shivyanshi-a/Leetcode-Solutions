@@ -139,6 +139,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -161,4 +162,12 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
