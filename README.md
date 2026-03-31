@@ -81,6 +81,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0001-two-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -176,5 +177,6 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
