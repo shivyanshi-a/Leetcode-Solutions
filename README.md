@@ -75,6 +75,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -105,10 +107,12 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +123,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,4 +189,16 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
