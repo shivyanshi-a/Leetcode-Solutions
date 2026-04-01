@@ -71,6 +71,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -173,6 +174,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
