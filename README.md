@@ -158,6 +158,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
