@@ -142,6 +142,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -158,6 +159,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Sliding Window
@@ -219,6 +221,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -240,6 +243,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
