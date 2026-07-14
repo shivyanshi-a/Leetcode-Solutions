@@ -131,6 +131,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -225,6 +226,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 ## Stack
 |  |
@@ -312,6 +314,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
