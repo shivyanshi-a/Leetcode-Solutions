@@ -15,6 +15,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0013-roman-to-integer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -197,6 +198,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0071-simplify-path) |
 ## Rolling Hash
 |  |
