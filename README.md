@@ -77,6 +77,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0012-integer-to-roman](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -118,6 +119,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0031-next-permutation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
@@ -279,9 +281,14 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
