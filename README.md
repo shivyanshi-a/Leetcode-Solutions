@@ -21,6 +21,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
@@ -168,6 +169,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1328-break-a-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
@@ -194,6 +196,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0022-generate-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
@@ -254,6 +257,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0010-regular-expression-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
