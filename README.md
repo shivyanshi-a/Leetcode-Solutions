@@ -132,6 +132,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -193,6 +194,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0009-palindrome-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
