@@ -94,6 +94,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0016-3sum-closest](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0031-next-permutation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -273,4 +275,5 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
