@@ -223,6 +223,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -231,6 +232,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0002-add-two-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
