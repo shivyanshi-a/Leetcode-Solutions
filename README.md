@@ -59,6 +59,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0027-remove-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
@@ -191,6 +193,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0010-regular-expression-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
@@ -220,6 +223,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0071-simplify-path) |
 ## Rolling Hash
 |  |
@@ -296,4 +300,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
