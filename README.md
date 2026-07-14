@@ -130,6 +130,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0047-permutations-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -179,6 +180,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -199,6 +201,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
