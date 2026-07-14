@@ -30,6 +30,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -85,6 +86,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
@@ -102,12 +104,14 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0704-binary-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +155,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
 | ------- |
@@ -219,4 +224,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
