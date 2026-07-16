@@ -227,6 +227,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0013-roman-to-integer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0024-swap-nodes-in-pairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
