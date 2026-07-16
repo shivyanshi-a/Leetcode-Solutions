@@ -142,6 +142,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0704-binary-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Trie
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
 |  |
 | ------- |
