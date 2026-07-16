@@ -208,6 +208,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
@@ -229,6 +230,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0029-divide-two-integers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -331,4 +333,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
