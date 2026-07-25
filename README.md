@@ -145,6 +145,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +165,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -338,6 +340,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0051-n-queens](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Quickselect
 |  |
 | ------- |
