@@ -31,6 +31,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0072-edit-distance](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -230,6 +231,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
