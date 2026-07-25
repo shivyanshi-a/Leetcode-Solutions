@@ -165,6 +165,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -253,6 +254,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0096-unique-binary-search-trees](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
