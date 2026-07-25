@@ -114,6 +114,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0140-word-break-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -378,6 +379,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0141-linked-list-cycle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -569,4 +571,12 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
