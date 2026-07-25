@@ -69,6 +69,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -295,6 +296,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0061-rotate-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
