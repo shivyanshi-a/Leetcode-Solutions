@@ -167,6 +167,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -257,6 +258,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0115-distinct-subsequences](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
