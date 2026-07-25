@@ -136,6 +136,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +210,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0044-wildcard-matching](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
@@ -329,6 +331,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0037-sudoku-solver](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
