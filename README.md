@@ -217,6 +217,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
@@ -241,6 +242,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -350,4 +352,8 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
