@@ -150,6 +150,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -267,6 +268,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0032-longest-valid-parentheses](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Combinatorics
 |  |
 | ------- |
