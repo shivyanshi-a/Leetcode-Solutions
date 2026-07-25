@@ -30,6 +30,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0071-simplify-path](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -146,6 +147,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -326,6 +328,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
@@ -341,6 +344,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0052-n-queens-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Quickselect
 |  |
 | ------- |
@@ -355,6 +359,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
