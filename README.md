@@ -397,6 +397,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
@@ -471,6 +472,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
