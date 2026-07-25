@@ -143,6 +143,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0064-minimum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -300,6 +301,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0033-search-in-rotated-sorted-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Interactive
@@ -348,6 +350,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0059-spiral-matrix-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
