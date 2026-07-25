@@ -195,6 +195,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0137-single-number-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
@@ -328,6 +329,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Rolling Hash
 |  |
 | ------- |
