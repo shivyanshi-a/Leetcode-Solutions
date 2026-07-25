@@ -344,6 +344,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0094-binary-tree-inorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -434,6 +435,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
@@ -513,6 +515,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -538,6 +541,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
