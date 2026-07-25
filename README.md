@@ -40,6 +40,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0127-word-ladder](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -105,6 +106,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0128-longest-consecutive-sequence](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -181,6 +183,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0135-candy](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
@@ -191,6 +194,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 ## Bit Manipulation
 |  |
@@ -281,6 +285,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String Matching
@@ -465,6 +470,7 @@ Daily Leetcode problem solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivyanshi-a/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
